@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /kid's_9/
+Sitemap: http://www.1-toy.com/sitemap.xml 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kid's Toys Coupons Blog]]></title>
+  <link href="http://www.1-toy.com/atom.xml" rel="self"/>
+  <link href="http://www.1-toy.com/"/>
+  <updated>2014-03-28T07:59:04+00:00</updated>
+  <id>http://www.1-toy.com/</id>
+  <author>
+    <name><![CDATA[Andy Abbott]]></name>
+    
+  </author>
+
+  
+</feed>
